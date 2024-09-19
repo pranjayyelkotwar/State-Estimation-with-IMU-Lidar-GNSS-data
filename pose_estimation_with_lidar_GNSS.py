@@ -41,3 +41,5 @@ ax.set_zlabel('z [m]')
 ax.set_title('Lidar and GNSS and Ground Truth trajectory')
 ax.set_zlim(-1, 5)
 plt.show()
+
+
